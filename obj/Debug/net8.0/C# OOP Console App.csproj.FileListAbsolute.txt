@@ -1,0 +1,14 @@
+D:\Intern DEHA\C# OOP Console App\bin\Debug\net8.0\C# OOP Console App.exe
+D:\Intern DEHA\C# OOP Console App\bin\Debug\net8.0\C# OOP Console App.deps.json
+D:\Intern DEHA\C# OOP Console App\bin\Debug\net8.0\C# OOP Console App.runtimeconfig.json
+D:\Intern DEHA\C# OOP Console App\bin\Debug\net8.0\C# OOP Console App.dll
+D:\Intern DEHA\C# OOP Console App\bin\Debug\net8.0\C# OOP Console App.pdb
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\C# OOP Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\C# OOP Console App.AssemblyInfoInputs.cache
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\C# OOP Console App.AssemblyInfo.cs
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\C# OOP Console App.csproj.CoreCompileInputs.cache
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\C# OOP Console App.dll
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\refint\C# OOP Console App.dll
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\C# OOP Console App.pdb
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\C# OOP Console App.genruntimeconfig.cache
+D:\Intern DEHA\C# OOP Console App\obj\Debug\net8.0\ref\C# OOP Console App.dll
